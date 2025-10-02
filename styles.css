@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    outline: 2px solid white;
 }
 
 .header {
@@ -13,6 +14,7 @@
     padding-left: 30px;
     padding-right: 30px;
     flex: auto;
+    border: 10px;
 }
 
 .main {
@@ -20,6 +22,18 @@
     padding: 20px;
     text-align: left;
     color:#F9FAF8
+}
+
+p, h1, h2, h3 {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+li {
+    font-size:14px;
+    line-height: 1.6;
+    margin-bottom: 10px;
 }
 
 .button a {
