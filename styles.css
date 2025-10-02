@@ -9,6 +9,10 @@
     background-color: #1F2937;
     padding: 20px;
     text-align: left;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    flex: auto;
 }
 
 .main {
